@@ -1,6 +1,6 @@
 <h1>Hi, I'm Jonathan! <br/><a href="https://www.linkedin.com/in/jonathantasek/">Business Analyst</a>
 
-<h2>👨‍💻 Data Analystics Project:</h2>
+<h2>👨‍💻 Data Analytics Project:</h2>
 
 - <b>Data Cleaning and Exploratory Data Analysis </b>
   - [Analysis of Airbnb Listings in WA](https://github.com/jedwardtsk/Airbnb-Listing-in-WA)
