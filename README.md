@@ -10,7 +10,8 @@
 
  <h2>🛠️ Licenses and Certifications</h2>
    
- - [SQL Intermediate](https://www.hackerrank.com/certificates/iframe/cf1b61987526) 
+ - [SQL Intermediate](https://www.hackerrank.com/certificates/iframe/cf1b61987526)
+ - [Basic Python](https://www.hackerrank.com/certificates/iframe/319b56995dac)
  - [Data Analyst in Power BI](https://www.datacamp.com/statement-of-accomplishment/track/fd22c98fc4dbbe0ddd846840007125817401b6c2?raw=1)
   
 <br>
