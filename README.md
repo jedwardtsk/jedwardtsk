@@ -3,10 +3,10 @@
 <h2>👨‍💻 Data Analytics Project:</h2>
 
 - <b>Data Cleaning and Exploratory Data Analysis </b>
-  - [Analysis of Airbnb Listings in WA](https://github.com/jedwardtsk/Airbnb-Listing-in-WA)
+  - [Analysis of Airbnb Listings in WA (Python Notebook)](https://github.com/jedwardtsk/Airbnb-Listing-in-WA)
 
 - <b>Data Visualization </b>
-  - [Taleau Dashboard](https://public.tableau.com/app/profile/jonathan.edward.tasek/viz/Visualization_17297699900980/MainDashboard?publish=yes)
+  - [Analysis of Airbnb Listings in WA (Taleau Dashboard)](https://public.tableau.com/app/profile/jonathan.edward.tasek/viz/Visualization_17297699900980/MainDashboard?publish=yes)
 
  <h2>🛠️ Licenses and Certifications</h2>
    
